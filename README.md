@@ -8,9 +8,9 @@ Community projects will be listed here as we create them.
 
 # Links
 
-*Website* https://eosza.io
-*Telegram* https://t.me/joinchat/HWaH_hFWUs5AMNljXWkvAA
-*Meetup.com* https://www.meetup.com/EOSza-Meetup-Centurion
-*Twitter* https://twitter.com/EOSZAio
-*Facebook* http://fb.me/eosza
-*Email* mailto:info@eosza.io
+* *Website* https://eosza.io
+* *Telegram* https://t.me/joinchat/HWaH_hFWUs5AMNljXWkvAA
+* *Meetup.com* https://www.meetup.com/EOSza-Meetup-Centurion
+* *Twitter* https://twitter.com/EOSZAio
+* *Facebook* http://fb.me/eosza
+* *Email* mailto:info@eosza.io
